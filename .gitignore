@@ -4,3 +4,4 @@ checkpoint
 .ipynb_checkpoints/
 model.*
 .DS_Store
+*.jpg

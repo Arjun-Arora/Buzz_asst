@@ -52,7 +52,7 @@ def fetch_urls(query: str, num_images: int, DRIVER_PATH: str) -> set:
             # try clicking on image
             try:
                 img.click()
-                time.sleep(1)
+                time.sleep(0.5)
             except Exception:
                 continue
 
