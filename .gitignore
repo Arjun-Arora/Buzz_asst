@@ -5,3 +5,4 @@ checkpoint
 model.*
 .DS_Store
 *.jpg
+*.json
