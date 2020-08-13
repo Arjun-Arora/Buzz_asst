@@ -4,9 +4,9 @@
 
 This is my solution to Buzz Solutions coding challenge
 
-Problem 1 is in the Problem 1 Notebook
+Problem 1 is in the `Problem 1 Notebook`
 
-Problem 2 is in ScrapeGoogle.py
+Problem 2 is in `ScrapeGoogle.py`
 
 ## Installation Instructions 
 
@@ -18,6 +18,6 @@ Problem 2 is in ScrapeGoogle.py
 
 To use the Problem 1 Notebook, simply run the cells in descending order.
 
-To use ScrapeGoogle.py, simply provide it a `--query`, a `--num_images`, and a `--data_dir` (the root directory of where to store your scrapped images).
+To use `ScrapeGoogle.py`, simply provide it a `--query`, a `--num_images`, and a `--data_dir` (the root directory of where to store your scrapped images).
 ### Example
 `python ScrapeGoogle.py --query bananas --num_images 5 --data_dir ./data`
