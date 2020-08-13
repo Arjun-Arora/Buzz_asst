@@ -16,7 +16,7 @@ Problem 2 is in `ScrapeGoogle.py`
 
 ## Usage Instructions
 
-To use the Problem 1 Notebook, simply run the cells in descending order.
+To use the `Problem 1 Notebook`, simply run the cells in descending order.
 
 To use `ScrapeGoogle.py`, simply provide it a `--query`, a `--num_images`, and a `--data_dir` (the root directory of where to store your scrapped images).
 ### Example
