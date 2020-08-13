@@ -1,0 +1,5 @@
+MNIST_data/
+checkpoint
+.ipynb_checkpoints/
+model.*
+.DS_Store
