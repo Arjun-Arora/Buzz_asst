@@ -1,10 +1,10 @@
-# Buzz_asst
+# Buzz Solutions Assignment
 
-# Introduction
+## Introduction
 
 Problem 1 is in the Problem 1 Notebook
 
-# Installation Instructions 
+## Installation Instructions 
 
 1. Ensure conda is installed
 2. create the `Buzz_Solutions` conda environment via  `conda env create -f Buzz_Solutions.yml`
